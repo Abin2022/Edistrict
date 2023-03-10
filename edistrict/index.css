@@ -1,0 +1,77 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.headder{
+height: 6em;
+padding-top: .8em;
+}
+ 
+ .footerimageone {
+    width: 12em;
+
+ }
+ .footerimageTwo{
+    height: 3em;
+    width: 9em;
+   
+ }
+
+ .images-Section{
+   padding-top: 3em;
+   justify-content: center;
+   height: 13;
+   
+ }
+ 
+ #imageTwo{
+ margin-top: -1em;
+ }
+
+ .sec{
+   margin-left: 2em;
+ }
+ .list li{
+   list-style-type: none;
+ }
+ .list{
+   padding-top: 3em;
+   margin-left: 2em;
+ }
+ .footersection{
+   width: 100%;
+   background-color: black;
+   
+ }
+ .footerparagraph{
+   padding-left: 3em;
+   
+ }
+ .borderlefti {
+   border-left: 1px solid white;
+   height: 12em;
+ }
+ .footer{
+   background: black;
+ }
+.lotuslogo{
+   margin-bottom: 3em;
+}
+#display{
+  font-size: 10px;
+}
+#display1{
+  font-size: 10px;
+}
+.card{
+  box-shadow: 5px 5px 5px rgb(157, 154, 154);
+}
+.card{
+  text-decoration: none;
+}
+#btn{
+  background: rgb(98, 187, 246);
+  color: white;
+}
